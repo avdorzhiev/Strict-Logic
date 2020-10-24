@@ -1,0 +1,17 @@
+.main {
+    /* border: 1px solid gray; */
+    padding: 10px;
+    /* background-color: gainsboro; */
+    width: 250px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 15px;
+    text-align: left;
+}
+
+p {
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

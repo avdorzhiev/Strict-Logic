@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+}
+
+Weather {
+  margin-top: 50px;
+}
+
+
